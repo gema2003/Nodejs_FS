@@ -1,0 +1,37 @@
+[
+  {
+    "id": "dca46a1cd06f2948c4086a5bd31246d1",
+    "title": "Por trece razones",
+    "author": "Jay Asher",
+    "image": "https://www.elsotano.com/imagenes_grandes/9789877/978987747190.JPG",
+    "description": "Por trece razones es una novela para jóvenes adultos escrita por Jay Asher. El libro fue publicado por RazorBill, un sello de Penguin Books, en 2007; la edición de bolsillo alcanzó el número uno en la lista de bestsellers del New York Times en julio de 2011."
+  },
+  {
+    "id": "815e775fa0c90db289db895c13f2be13",
+    "title": "Mujercitas",
+    "author": "Louisa May Alcott",
+    "image": "https://blogs.elpais.com/.a/6a00d8341bfb1653ef01a3fd100531970b-pi",
+    "description": "Mujercitas es una novela de la escritora estadounidense Louisa May Alcott publicada el 30 de septiembre de 1868, que trata la vida de cuatro niñas que, tras pasar la adolescencia con la Guerra Civil en los Estados Unidos como fondo, entre 1861 y 1865, se convierten en mujeres"
+  },
+  {
+    "id": "ec8edd70510e09299601e88d68ec0c63",
+    "title": "La chica del tren",
+    "author": "Paula Hawkins",
+    "image": "https://www.aboutespanol.com/thmb/rl9WAznx0FBTfxOMpKpDykDDCFU=/1152x1304/filters:fill(auto,1)/la-chica-del-tren-Planeta-5-56a5a5a05f9b58b7d0ddd18b.JPG",
+    "description": "La chica del tren es una novela de intriga y misterio de la autora británica Paula Hawkins, publicada en 2015, que se convirtió en un superventas en Gran Bretaña, Estados Unidos y Uruguay desde su publicación, se vendieron cinco millones de ejemplares en seis meses."
+  },
+  {
+    "id": "d231930c207620e997bb8fed5bde4cd1",
+    "title": "El Código Da Vinci",
+    "author": "Dan Brown",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51WmNPpn5sL.jpg",
+    "description": "El código Da Vinci es una novela de misterio escrita por Dan Brown y publicada por primera vez por Random House en 2003. Se ha convertido en un superventas mundial, con más de 80 millones de ejemplares vendidos y traducido a 44 idiomas."
+  },
+  {
+    "id": "f58efb4f9697a401186be41eecccdce9",
+    "title": "El Señor de los Anillos",
+    "author": "J. R. R. Tolkien",
+    "image": "https://www.librosdemario.com/covers/86/67/cover.jpg",
+    "description": "Su historia se desarrolla en la Tercera Edad del Sol de la Tierra Media, un lugar ficticio poblado por hombres y otras razas antropomorfas como los hobbits, los elfos o los enanos, así como por muchas otras criaturas reales y fantásticas."
+  }
+]
